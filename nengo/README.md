@@ -1,1 +1,3 @@
-# Refer Nengo documentation for installation \n http://nengo.ca/download
+# Refer Nengo documentation for installation 
+
+http://nengo.ca/download
